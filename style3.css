@@ -1,0 +1,102 @@
+section.sa{
+    background-color: aliceblue;
+    height: 100px;
+}
+section.ru{
+    background-color: lightseagreen;
+}
+.inbox2{
+    text-align: center;
+}
+.inbox3{
+    margin-top: 150px;
+    color: aliceblue;
+}
+button.sc{
+    background-color: antiquewhite;
+}
+section.sr{
+    background-color: aliceblue;
+}
+.inbox4{
+    height: 50px;
+    text-align: center;
+    margin: 30px;
+}
+.inbox5{
+    height: 50px;
+    text-align: center;
+}
+.inbox6{
+    height: 100px;
+    text-align: center;
+}
+section.rs{
+    background-color: lightseagreen;
+}
+.inbox7{
+    text-align: center;
+}
+i.is{
+    font-size: 80px;
+    color: aliceblue;
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 15px;
+}
+hr.rh{
+    color: white;
+    
+}
+h3.hf{
+    color: white;
+}
+p.pf{
+    color: white;
+}
+section.jt{
+    background-color: black;
+}
+h2.hv{
+    color: blanchedalmond;
+}
+.inbox8{
+    text-align: center;
+}
+section{
+    background-color: white;
+}
+.inbox9{
+    text-align: center;
+}
+img.im{
+    /* height: 100px; */
+    width: 100%;
+}
+section.sb{
+    background-color: black;
+    margin-top: 40px;
+}
+.inbox10{
+    padding-bottom: 10px;
+}
+.inbox11{
+    text-align: center;
+    color: cornsilk;
+}
+section.sl{
+    background-color: white;
+}
+.inbox12{
+    text-align: center;
+}
+i.lo{
+    color: black;
+}
+p.pj{
+    color: black;
+}
+@media(max-width:991px){
+    .inbox3{
+margin-top: 1px;    }
+}
